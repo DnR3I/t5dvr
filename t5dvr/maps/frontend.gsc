@@ -74,7 +74,7 @@ mod_options_hint()
 	version[0].y = 0;
 	version[0].x = 370;
 	version[0].alpha = 0.1;
-	version[0] SetText("t5dvr 1.0.2.0");
+	version[0] SetText("t5dvr 1.0.3.0");
 }
 
 frontend_precache()
